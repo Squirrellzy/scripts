@@ -1,0 +1,16 @@
+// All praises go to uplusion23 for the script i just had to change some steps for the update :)
+
+Copy the code below to your clipboard.
+Start a new Cyber Security Awareness Challenge session. (Must be new, do not continue)
+Progress until you see the main button 'Start Challenge' button. Do not click it.
+Press F12 on your keyboard to open developer tools.
+Paste the code you copied into the console and hit ENTER.
+If on Google Chrome, you should see 'undefined' pop up. Other browsers, as long as there is no error you should be fine.
+Right click on the cyber awareness challenge you'll see reload and then click it(you might have to click around the screen)
+You should see a button saying "verify training", click it.
+You've completed CA 2021.
+//
+
+var store = new Store;
+var controller = new Controller(store)
+controller.store.setData("ShowTextOn=1&userMode=ic&courseMode=kc&name=&lesson_00_params=visited:[0]complete:[0]questions:[0]&lesson_01_params=visited:[1,1,1,1,1]complete:[1,1,1,1,1]questions:[0,0,0,0,0]&lesson_02_params=visited:[1,1,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,1]questions:[2,0,0,0,0,0,0,0,0]&lesson_03_params=visited:[1,1,0,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,0,1]questions:[2,0,0,0,0,0,0,0,0,0]&lesson_04_params=visited:[1,1,0,0,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,0,0,1]questions:[3,0,0,0,0,0,0,0,0,0,0]&lesson_05_params=visited:[1,1,0,0,0,0,0,0]complete:[1,1,0,0,0,0,0,0]questions:[2,0,0,0,0,0,0,0]&lesson_06_params=visited:[1,1,1,1,1,1,1,1,1,1]complete:[1,1,1,1,1,1,0,1,1,1]questions:[2,0,0,0,0,2,0,0,0,0]&lesson_07_params=visited:[1,1,0,0,0,0,0,0]complete:[1,1,0,0,0,0,0,0]questions:[1,0,0,0,0,0,0,0]&lesson_08_params=visited:[1,1,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,1]questions:[2,0,0,0,0,0,0,0]&lesson_09_params=visited:[1,1,0,0,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,0,0,1]questions:[1,0,0,0,0,0,0,0,0,0,0]&lesson_10_params=visited:[1,1,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,1]questions:[1,0,0,0,0,0,0,0]&lesson_11_params=visited:[1,1,0,0,0,0,0]complete:[1,1,0,0,0,0,0]questions:[1,0,0,0,0,0,0]&lesson_12_params=visited:[1,1,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,1]questions:[2,0,0,0,0,0,0,0,0]&lesson_13_params=visited:[1,1,0,0,0,0,0]complete:[1,1,0,0,0,0,0]questions:[1,0,0,0,0,0,0]&lesson_14_params=visited:[1,1,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,1]questions:[1,0,0,0,0,0,0,0]&lesson_15_params=visited:[1,1,0,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,0,1]questions:[3,0,0,0,0,0,0,0,0,0]&lesson_16_params=visited:[1,1,0,0,0,0,0,0,0]complete:[1,1,0,0,0,0,0,0,0]questions:[2,0,0,0,0,0,0,0,0]&lesson_17_params=visited:[1,1,0,0,0,0,0,0,1]complete:[1,1,0,0,0,0,0,0,1]questions:[1,0,0,0,0,0,0,0,0]&lesson_18_params=visited:[1,1,0]complete:[1,1,0]questions:[0,0,0]&LastVisitedModule=lesson_18&disa_cac_2019_fy18CurrentPageNum=2&disa_cac_2019_fy18CurrentBranchPageNum=0&MainMenuOpen=0&randomQuestions=false&");
