@@ -1,13 +1,11 @@
-<h1>Instructions for the Old Challenge</h1>
+<h1>Instructions for the challenge (2021)</h1>
 
 <ul>
-<li>Once you have the Cyber Awareness Challenge open and on the Task List section ...</li>
-<li>Press the F12 key to open up the Developer tools for Internet Explorer.
-<ul><li>Find and click on the CONSOLE tab and select it.</li></ul></li>
-<li>Copy the following code and paste it into the textbox at the bottom of the console tab.</li>
-<li>Either click the green play arrow to the right of the text box or hold CTRL and press ENTER.</li>
-<li>The page will reload and everything will be "completed". The score really doesn't matter so long as there is no RED score.</li>
-<li>Now to completely finish click on the section labeled "Home Computer Use" and follow it as normal to complete the challenge.</li>
-</ul>
-
-Will work on updated version when I get the time.
+  <li>Copy the code below from the challenge portion file.</li>
+  <li>Start a new Cyber Security Awareness Challenge session. (Must be new, do not continue)</li>
+<li>Progress until you see the main button 'Start Challenge' button. Do not click it.</li>
+<li>Press F12 on your keyboard to open developer tools.</li>
+<li>Paste the code you copied into the console and hit ENTER.</li>
+<li>If on Google Chrome, you should see 'undefined' pop up. Other browsers, as long as there is no error you should be fine.</li>
+<li>Right click and choose refresh this should take you to the completion page after refreshed</li>
+<li>Bam! you have completed the challenge</li>
